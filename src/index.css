@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Inter:wght@300;400&family=Koulen&family=Lato:wght@300&family=Montserrat:ital,wght@0,300;1,200&family=Oleo+Script+Swash+Caps&family=Outfit:wght@100..900&family=Padauk&family=Piazzolla:ital,opsz,wght@1,8..30,500&family=Poppins:ital,wght@0,100;0,400;0,700;1,200;1,600;1,700&family=Roboto:wght@100&family=Rubik+Microbe&family=Sono:wght@200;300;400;500&family=Ubuntu+Mono&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Outfit;
+}
+#root{
+  min-height: 100vh;
+  display: flex;
+}
